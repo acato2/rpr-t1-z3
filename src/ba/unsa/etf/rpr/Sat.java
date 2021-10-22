@@ -39,7 +39,7 @@ public class Sat {
         if (sati == -1) {
             sati = 23;
         }
-        ;
+
     }
 
     void PomjeriZa(int pomak) {
